@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itswolv3
-- 👀 I’m interested in ...Python, bash, JS, Linux, Network Security & CEH
+- 👀 I’m interested in ...Python, bash, JS, Linux & Network Security
 - 🌱 I’m currently learning ...Python, Web Dev, CompTIA A+ & N+
 - 💞️ I’m looking to collaborate on ... Nothing at this moment in time.
 - 📫 How to reach me ...@itswolv3 - Twitter
