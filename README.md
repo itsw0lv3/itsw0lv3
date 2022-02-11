@@ -1,7 +1,6 @@
 # About Me:
 My name is Reece, I am very passionate about pretty much anything in the Information Technology world.<br>
-I'm always trying to learn something new, whether it be hardware, software, operating systems, cloud ar a new programming<br>
-language and/or new framework.<br>
+I'm always trying to learn something new, whether it be hardware, software, operating systems, cloud ar a new programming language and/or new framework.<br>
 I am aiming currently to be a full stack web developer, creating stylish and funcitonal websites,web apps and API's.
 
 - 👋 Hi, I’m @itswolv3 / Reece
