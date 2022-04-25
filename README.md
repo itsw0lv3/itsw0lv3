@@ -4,7 +4,7 @@ I'm always trying to learn something new, whether it be hardware, software, oper
 
 - 👋 Hi, I’m @itswolv3 / Reece
 - 👀 I’m interested in ...Python, bash, JS, Linux & Network Security
-- 🌱 I’m currently learning ...JavaScript, php and Fullstack Web dev
+- 🌱 I’m currently learning ...Java and AWS
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ...@itswolv3 - Twitter
 
