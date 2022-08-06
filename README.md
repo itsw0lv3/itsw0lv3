@@ -1,12 +1,61 @@
-# About Me:
-My name is Reece, I am very passionate about pretty much anything in the Information Technology world.<br>
-I'm always trying to learn something new, whether it be hardware, software, operating systems, cloud ar a new programming language and/or new framework.
+# 👋 Hi I'm itswolv3.
+#### 🐍 Python | 💻 JavaScript | 🐧 Linux | ☁️ Cloud
 
-- 👋 Hi, I’m @itswolv3 / Reece
-- 👀 I’m interested in ...Python, bash, JS, Linux & Network Security
-- 🌱 I’m currently learning ...Java and AWS
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me ...@itswolv3 - Twitter
+<details open>
+<summary> 🙇 About Me </summary>
+My name is Reece aka itswolv3. I'm a Python and JavaScript Developer. My other interests are CyberSecurity, DevOps, Linux, Music, Art and Gaming. I love building computers and servers, learning new technologies and languages, playing music, testing out interesting Linux Distros, and having some shenanigans with my friends in games.
+</details>
+
+<details>
+<summary>📱 Contact Me</summary>
+You can contact me via the following:
+
+- 🐦 [Twitter](https://twitter.com/itswolv3)
+- 👥 [Linkedin](https://www.linkedin.com/in/reece-russell-a4146a20b/)
+- ✉️ [Email](rerussell@protonmail.com)
+</details>
+
+<details>
+<summary> 🧰 Tech Stack</summary>
+<br>
+🐍 Python
+<br>
+<ul>
+<li>CLI Applications</li>
+<li>Automation</li>
+<li>Web Scraping - BS4 & Selenium</li>
+<li>Flask</li>
+<li>FastAPI</li>
+</ul>
+
+💻 Web Dev | JS
+<br>
+<ul>
+<li>TypeScrip</li>
+<li>React & NextJS</li>
+<li>NodeJS</li>
+<li>Bootstrap</li>
+</ul>
+
+🔨 Others
+<br>
+<ul>
+<li>🐋 Docker</li>
+</ul>
+</details>
+
+<details>
+<summary>🏫 Currently Learning</summary>
+I'm always leaning things to better myself and my skills.
+<br>
+<br>
+<ul>
+<li>☁️ AWS CCP</li>
+<li>🌐 CompTIA N+</li>
+<li>🦀 Rust</li>
+<li>🐹 Goland</li>
+</ul>
+</details>
 
 <!---
 itswolv3/itswolv3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
