@@ -53,7 +53,7 @@ I'm always leaning things to better myself and my skills.
 <li>☁️ AWS CCP</li>
 <li>🌐 CompTIA N+</li>
 <li>🦀 Rust</li>
-<li>🐹 Goland</li>
+<li>🐹 Golang</li>
 </ul>
 </details>
 
