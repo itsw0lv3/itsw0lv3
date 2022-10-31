@@ -1,5 +1,5 @@
 # 👋 Hi I'm itswolv3.
-#### 🐍 Python | 💻 JavaScript | 🐧 Linux | ☁️ Cloud
+#### 🐍 Python | 💻 JavaScript | 🐧 Linux  | ☁️ Cloud
 
 <details open>
 <summary> 🙇 About Me </summary>
