@@ -3,7 +3,7 @@
 
 <details open>
 <summary> 🙇 About Me </summary>
-My name is Reece aka itswolv3. I'm a Python and JavaScript Developer. My other interests are CyberSecurity, DevOps, Linux, Music, Art and Gaming. I love building computers and servers, learning new technologies and languages, playing music, testing out interesting Linux Distros, and having some shenanigans with my friends in games.
+My name is Reece. I'm a Python and JavaScript Developer. My other interests are CyberSecurity, DevOps, Linux, Music, Art and Gaming. I love building computers and servers, learning new technologies and languages, playing music, testing out interesting Linux Distros, and having some shenanigans with my friends in games.
 </details>
 
 <details>
