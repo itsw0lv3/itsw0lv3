@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Insolvent.ai](https://www.insolvent.ai)
 
-- 🌱 I’m currently learning **Rust, DevOps Toolsets and Operations**
+- 🌱 I’m currently learning **Rust, Kotlin DevOps Toolsets, Operations, and Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/reeceeric82?tab=repositories](https://www.github.com/reeceeric82?tab=repositories)
 
